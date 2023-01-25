@@ -1,0 +1,12 @@
+Install:
+Download mpi4py binaries (from Github for exemple)
+Carefully change the mpi.cfg file with good path (also lib64 to amd64 or capital letters)
+Make sure the PATH variable is properly set. The first MPI bin path must point to the mpi configuration you want to use
+Go in  mpi4py binaries folder
+run: python setup.py build --mpi=[you_mpi_version]
+run: python setup.py install
+
+Run a MPI programm:
+mpiexec -n N_cpu python -u your_programm.py
+    -u : display before the end of the programm
+    N_cpu : the number of CPU you eant to use

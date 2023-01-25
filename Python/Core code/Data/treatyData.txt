@@ -1,0 +1,292 @@
+sf_TD
+sf_TD_intercept_month	sf_TD_slope_month
+Jan	-149760	4.0776
+Feb	-373756	4.7308
+Mar	-541361	5.1787
+Apr	-537079	5.1227
+May	-537079	5.1227
+Jun	-537079	5.1227
+Jul	-537079	5.1227
+Aug	-537079	5.1227
+Sep	-537079	5.1227
+Oct	-537079	5.1227
+Nov	-537079	5.1227
+Dec	-537079	5.1227
+
+
+sa_TD
+sa_TD_intercept_month	sa_TD_slope_month
+Jan	-113926	1.0629
+Feb	-76807	1.0265
+Mar	50681	0.9437
+Apr	75808	0.9355
+May	75808	0.9355
+Jun	75808	0.9355
+Jul	75808	0.9355
+Aug	75808	0.9355
+Sep	75808	0.9355
+Oct	75808	0.9355
+Nov	75808	0.9355
+Dec	75808	0.9355
+
+
+fcc_intercept_month
+	Jan	Feb	Mar	Apr
+MCA	5568	5568	5568	5568
+ARD	10136	10136	10136	10136
+
+
+fcc_slope_month
+	Jan	Feb	Mar	Apr
+MCA	0.0683	0.1367	0.2050	0.2050
+ARD	0.0602	0.1204	0.1806	0.1806
+
+
+fcc_min_month
+	Oct Nov Dec Jan	Feb	Mar	Apr
+MCA	2855	2855	5568	5568	5568	5568	5568
+ARD	3569	3569	10136	10136	10136	10136	10136
+
+
+fcc_max_month
+	Oct Nov Dec Jan	Feb	Mar	Apr
+MCA	2855	2855	5568	23128	40688	58248	58248
+ARD	3569	3569	10136	23842	37690	51395	51395
+
+
+X0_1
+X0_1_month	X1_1_month	X2_1_month	X3_1_month	X4_1_month	X5_1_month
+Oct	-52770	0.9274	8.3224	29.4334	0	0
+Nov	-65393	1.2696	0	5.1788	0	0
+Dec	-35117	1.0796	0	2.0040	0	0
+Jan	-4724	0.6847	12.3399	0.3707	-0.020767	-0.002897
+Feb	-17092	0.5687	0	10.6946	-0.002722	-0.006979
+Mar	83	0.8492	1.5450	0.9349	-0.002436	-0.009671
+Apr	-6861	0.9083	22.8417	0	0	-0.001789
+May	-62510	0.9781	15.2522	13.2771	0	-0.013844
+Jun	-1879	0.8623	6.8174	8.5145	-0.015112	0
+Jul	-20356	0.6671	10.2330	26.8737	0	0
+Aug	-46934	1.2265	0	4.8969	0	0
+Sep	-49195	1.0334	6.1652	15.6702	0	0
+
+
+X0_2
+X0_2_month	X1_2_month	X2_2_month	X3_2_month	X4_2_month	X5_2_month
+Oct	17	0.9274	8.3224	0	0	0
+Nov	9336	0.8134	0	5.1788	0	0
+Dec	44151	0.4918	0	2.0040	0	0
+Jan	-3621	0.6847	12.3399	0	-0.020767	-0.002897
+Feb	4691	0.5687	0	0	-0.002722	-0.006979
+Mar	62159	0.8492	1.5450	0.9349	-0.208935	-0.009671
+Apr	41019	0.9083	22.8417	0	-0.169855	-0.001789
+May	31830	0.9781	15.2522	0	0	-0.013844
+Jun	66551	0.8623	6.8174	0	-0.015112	0
+Jul	59473	0.6671	10.2330	0.8855	0	0
+Aug	161035	0.1412	0	4.8969	0	0
+Sep	-19673	1.0334	6.165163951	0	0	0
+
+
+D1_month
+dummy header
+Nov	163808
+Dec	134859
+Aug	191629
+
+
+D3_month
+dummy header
+Oct	1793
+Jan	2975
+Feb	2037
+May	7105
+Jun	8037
+Jul	3072
+Sep	1884
+
+
+D4_month
+dummy header
+Mar	300616
+Apr	281888
+
+
+MC_inflow
+MC_inflow_intercept_month	MC_inflow_slope_month		   
+Oct	364.59		1.0883
+Nov	314.71		2.3904
+Dec	-312.26		5.8103
+Jan	-203.84		6.6969
+Feb	-110.67		7.5473
+Mar	294.05		6.1872
+Apr	1274.29		3.0643
+May	1451.57		2.3829
+Jun	-2378.86	2.8153
+Jul	-1437.71	1.6348
+Aug	-144.33		0.8377
+Sep	336.38		0.5739
+
+
+SR_inflow
+SR_inflow_intercept_month	SR_inflow_slope_month		   
+Oct	305.45		0.2972
+Nov	397.74		0.2521
+Dec	236.71		0.4009
+Jan	167.64		0.5136
+Feb	25.03		0.6392
+Mar	113.81		0.6683
+Apr	349.56		0.5497
+May	152.18		0.4904
+Jun	-230.10		0.4811
+Jul	197.20		0.2858
+Aug	233.39		0.2330
+Sep	283.46		0.2596
+
+
+TD_inflow
+TD_inflow_intercept_month	TD_inflow_slope_month	   
+Oct	844.50	2.3063
+Nov	894.84	3.7580
+Dec	23.23	8.4098
+Jan	342.66	9.2149
+Feb	181.58	11.9357
+Mar	945.91	10.0533
+Apr	2822.64	4.9885
+May	2988.11	4.2263
+Jun	-2694.63	4.8458
+Jul	-1284.80	2.9699
+Aug	76.14	2.0209
+Sep	704.96	1.7251
+
+
+CR_se_fc_Jul
+CR_se_fc_Jul_intercept_month	CR_se_fc_Jul_slope_month  
+Jan	38031	0.8041
+Feb	25059	0.8090
+Mar	21350	0.7996
+Apr	17142	0.7851
+May	-9123	0.7975
+Jun	-58055	0.7541
+
+
+MC_se_fc_Jul
+MC_se_fc_Jul_intercept_month	MC_se_fc_Jul_slope_month	  
+Jan	148850	1.7952
+Feb	-307071	3.1662
+Mar	-430363	3.4379
+Apr	-470995	3.4656
+May	-377638	3.0587
+Jun	-244801	2.5006
+
+
+SR_se_fc_Jul
+SR_se_fc_Jul_intercept_month	SR_se_fc_Jul_slope_month	 
+Jan	4744	0.5351
+Feb	-9392	0.5394
+Mar	8420	0.5136
+Apr	-11266	0.5171
+May	-42573	0.5556
+Jun	14065	0.3750
+
+
+TD_se_fc_Jul
+TD_se_fc_Jul_intercept_month	TD_se_fc_Jul_slope_month 
+Jan	655181	2.6190
+Feb	220818	3.8839
+Mar	75119	4.1577
+Apr	52410	3.9768
+May	1602	3.7959
+Jun	6938	3.2013
+
+
+# SOA and LCA
+V_SOA_LCA
+V_SOA_month	V_LCA_month
+Oct	0	1393
+Nov	0	-2245
+Dec	0	-5491
+Jan	10893	-2691
+Feb	12033	-1325
+Mar	12033	57
+Apr	12324	0
+May	10477	0
+Jun	8625	0
+Jul	0	-66
+Aug	0	-333
+Sep	0	-2351
+
+
+# TY
+V_TY
+V_TY_total_max_month	V_TY_total_min_month
+Oct	194873	-36703
+Nov	194873	-36703
+Dec	185593	-36703
+Jan	154280	-36703
+Feb	122967	-36703
+Mar	91655	-36703
+Apr	91655	-36703
+May	201297	-36703
+Jun	201297	-36703
+Jul	201297	-36703
+Aug	201297	-36703
+Sep	201297	-36703
+
+
+# NT
+Q_NT_BC
+Q_NT_BC_min_month Q_NT_BC_max_month
+Oct	-149.92	283.17
+Nov	-91.67	237.22
+Dec	-210.03	132.92
+Jan	-205.53	59.97
+Feb	-140.58	173.24
+Mar	-4.94	283.17
+Apr	-3.22	2.06
+May	-33.73	0.00
+Jun	-0.18	0.00
+Jul	-5.74	179.02
+Aug	36.06	205.91
+Sep	-234.67	279.27
+
+
+# Load-resource balancing with US matching NT operation, penalty variable for relaxation
+HKARD_MidC
+HKARD_month	price_Mid_C_month
+Oct	2.1589	28.40
+Nov	2.1325	32.86
+Dec	2.0443	33.62
+Jan	1.8505	33.75
+Feb	1.839	32.12
+Mar	1.9718	28.29
+Apr	1.5905	27.99
+May	1.3021	20.91
+Jun	1.2366	21.41
+Jul	1.5144	33.28
+Aug	1.7408	35.36
+Sep	2.136	32.74
+
+	
+	V_treaty_select
+V_TY_MCA_select	V_TY_total_select	V_NT_BC_select
+Oct	91120	170785	21383 
+Nov	78848	156385	18963
+Dec	61868	121731	19834
+Jan	44333	73303	19582
+Feb	27897	37450	21123
+Mar	14733	23703	20655
+Apr	9325	26369	20663
+May	27481	78901	21731
+Jun	68616	151964	21723
+Jul	94479	191477	21936
+Aug	97861	192153	20420
+Sep	96906	182036	26799
+
+
+	treaty_multi_ini
+	TY_total	TY_MCA		NT_BC
+1	80000		40932		11000
+2	110000		56281		18000
+3	140000		71631		25000
+4	170000		86980		32000
+
+
